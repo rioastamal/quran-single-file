@@ -2,7 +2,7 @@
 
 Alhamdulillah puji syukur ke hadirat Allah SWT. Sholawat serta salam semoga selalu tercurahkan kepada Nabi Muhammad SAW.
 
-Quran-single-file adalah project untuk menyajikan kitab suci Al-Quran dalam bentuk sebuah file text. Dimana satu baris mewakili satu ayat. Total ayat atau baris pada file adalah 6.326 ayat.
+Quran-single-file adalah project untuk menyajikan kitab suci Al-Quran dalam bentuk sebuah file text. Dimana satu baris mewakili satu ayat. Total ayat atau baris pada file adalah 6.236 ayat.
 
 Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kesalahan yang ada pada project ini adalah pasti karena kebodohan dan kekhilafan saya sendiri. Untuk itu mohon dengan hormat jika anda menemukan ada suatu kesalahan untuk menghubungi saya melalui email.
 
